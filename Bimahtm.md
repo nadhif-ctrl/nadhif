@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmadnadhif211@gmail.com**
 
-- ⚡ Fun fact **expert fish it player**
+- ⚡ Fun fact **I am an expert fish it player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
