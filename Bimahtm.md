@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadhif</h1>
+<h1 align="center">Hi, I'm Nadhif</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 - 🔭 I’m currently working on [Aranus Technology](bimahtm)
